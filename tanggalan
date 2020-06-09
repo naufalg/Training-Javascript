@@ -1,0 +1,11 @@
+var hari = new array (31)
+var bulan = {1:"Januari", 2:"Februari", 3:"Maret", 4:"April"}
+var tahun = new array (2020)
+function tgl(tglHari, tglBulan, tglTahun){
+  var tglHari = hari
+  var tglBulan = bulan
+  var tahun = tglTahun
+}
+return tglHari, tglBulan, tglTahun
+
+console.log(tgl(1, 2, 1950))
