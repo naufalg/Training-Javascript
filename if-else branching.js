@@ -1,4 +1,4 @@
-var nama = ""
+var nama = "Mikael"
 var peran = ""
 
 if (nama == "Mikael") {
